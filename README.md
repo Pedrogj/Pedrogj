@@ -1,4 +1,4 @@
-## Hola Soy Pedro Perez Desarrollador Frontend.
+## Hi, I'm Pedro Perez, Frontend Developer.
 <div align="center">
   <a href="https://github.com/Pedrogj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrogj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
